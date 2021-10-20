@@ -16,3 +16,9 @@ Please open from the main repisotory of this eduAv project:
 Put this powerpoint prototype into 'presentation' mode, and explore the functionality currently implimented to facilitate social presence.
 
 # Wiki Structure
+### Wiki
+https://github.com/s4480362/eduAv/wiki
+### Research
+https://github.com/s4480362/eduAv/wiki/Research
+### Resource Attributes
+https://github.com/s4480362/eduAv/wiki/Prototype-Resource-Attributes
