@@ -9,7 +9,7 @@ Please open from the main repisotory of this eduAv project:
 Run the python code, answering the prompts and making the corresponding choices on the powerpoint prototype.
 Scroll through the slides, copy+pasting your selected features onto the blank face at the beggining.
 
-### Build Your Own eduAv
+### Enter the Classroom with your eduAv
 Please open from the main repisotory of this eduAv project:
   'edUAv Classroom_App Final Prototype DECO3500 s4480362'
 
