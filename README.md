@@ -1,7 +1,7 @@
 # eduAv
 My DECO3500 Wiki Page for eduAv, my solution to facilitating social presence in an eLearning domain.
 
-# Final Prototype Instructions
+## Final Prototype Instructions
 ### Build Your Own eduAv
 Please open from the main repisotory of this eduAv project:
   'eduAv Build_Code.py' and 'edUAv Build_App Final Prototype DECO3500 s4480362'
@@ -15,7 +15,7 @@ Please open from the main repisotory of this eduAv project:
 
 Put this powerpoint prototype into 'presentation' mode, and explore the functionality currently implimented to facilitate social presence.
 
-# Wiki Structure
+## Wiki Structure
 ### Wiki
 https://github.com/s4480362/eduAv/wiki
 ### Research
