@@ -4,7 +4,7 @@ My DECO3500 Wiki Page for eduAv, my solution to facilitating social presence in 
 ## Final Prototype Instructions
 ### Build Your Own eduAv
 Please open from the main repisotory of this eduAv project:
-  'eduAv Build_Code.py' and 'edUAv Build_App Final Prototype DECO3500 s4480362'
+  'eduAv Build_Code.py' and 'edUAv Build_App Final Prototype DECO3500 s4480362.pptx'
 
 https://github.com/s4480362/eduAv/blob/main/eduAv%20Build_Code.py
 
